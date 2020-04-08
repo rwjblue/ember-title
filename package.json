@@ -1,7 +1,7 @@
 {
   "name": "ember-title",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Makes document.title management trivial in Ember",
   "keywords": [
     "ember-addon"
   ],
