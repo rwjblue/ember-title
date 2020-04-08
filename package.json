@@ -5,11 +5,13 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwjblue/ember-title.git"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "Robert Jackson <me@rwjblue.com>",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "scripts": {
@@ -64,5 +66,10 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  }
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/rwjblue/ember-title/issues"
+  },
+  "homepage": "https://github.com/rwjblue/ember-title#readme"
 }
